@@ -13,3 +13,18 @@ h1{
     background-color: rgb(252, 242, 230);
     height: 540px;
 }
+.image-winter{
+    height:380px;
+    width:400px;
+    background-color: rgb(230, 229, 229);
+}
+.btn-cl{
+    background-color: greenyellow;
+    font-size: 100px;
+}
+.price{
+    padding: 5px;
+    font-size: 28px;
+    color: rgb(238, 169, 40);
+    font-weight: 700;
+}
