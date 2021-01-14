@@ -28,3 +28,10 @@ h1{
     color: rgb(238, 169, 40);
     font-weight: 700;
 }
+#discount{
+    background-color: palegreen;
+    color: red;
+    height: 100px;
+    width: 400px; padding: 15px;
+    font-size: 30px; font-weight: 700;
+} 
