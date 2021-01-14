@@ -1,6 +1,15 @@
-.text-alline{
+h1{
+    font-size: 150px;
+    padding:3px;
+    
+
+}.text-alline{
     margin-left: 450px;
 }
 #headline{
     color: orange;
+}
+.b-color{
+    background-color: rgb(252, 242, 230);
+    height: 540px;
 }
